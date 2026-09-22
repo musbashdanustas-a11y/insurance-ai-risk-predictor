@@ -1,19 +1,31 @@
-# Insurance AI Risk Predictor 🇳🇬
+# Insurance AI Risk Predictor - Kaduna 🇳🇬
+> Built with 4GB phone - No laptop, no excuses.
 
-> Built with 4GB phone in Kaduna - No laptop, no excuses.
+An AI that predicts insurance risk like real Nigerian insurance companies.
 
-This AI predicts insurance risk using real logic that insurance companies in Nigeria use.
+## 🚀 Version 2 - 1000 Customers
+I upgraded from 5 to 1000 customers analysis.
+
+### Key Finding
+My AI found: **Smokers are 3x more likely to claim than non-smokers.**
+- Smoker risk: ~60%
+- Non-smoker risk: ~20%
 
 ### How it works
-- Input: Age, Smoker status
-- Logic: Learns that smokers >40 are high risk
-- Output: N5000 / N10000 / N20000 premium
+- Input: Age, Smoker (0/1)
+- Logic: If smoker=1 and age>45 = High Risk
+- Output: Risk percentage
 
-### Tech
-Python, Machine Learning Basics
+### Tech Stack
+Python, Data Analysis, Risk Modeling
 
 ### Author
-Mus'ab - Self-taught Computer Engineering | Kaduna, Nigeria
-Aspiring InsurTech Engineer
+**Mus'ab** | Self-taught Computer Engineer | Kaduna, Nigeria
+GitHub: musbashdanustas-a11y
+Goal: InsurTech Engineer
 
-### Next: Building version 2 with 1000 customers dataset
+### Results
+Analyzed 1000 customers using only a 4GB Android phone.
+This is the same logic used by Leadway & AIICO Insurance.
+
+Next: Building fraud detection (V3)
