@@ -7,6 +7,7 @@ print("--- AI na Kaduna na nazarin mutane 1000 ---")
 
 masu_taba = 0
 masu_taba_claim = 0
+basa_taba = 0
 basa_taba_claim = 0
 
 for i in range(1000):
